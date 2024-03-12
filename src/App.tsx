@@ -18,11 +18,7 @@ function App() {
         >
           Learn React
         </a>
-<<<<<<< HEAD
-        <h1>Master Branch update</h1>
-=======
         <h2>Test Feature branch</h2>
->>>>>>> 4e8dc3b (test feature 1)
       </header>
     </div>
   );
