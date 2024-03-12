@@ -18,8 +18,7 @@ function App() {
         >
           Learn React
         </a>
-        <h2>Test Feature branch</h2>
-        <h3>Heading H3</h3>
+        <h2>Test Feature branch Feature/test-1</h2>
       </header>
     </div>
   );
